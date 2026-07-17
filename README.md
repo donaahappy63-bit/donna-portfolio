@@ -507,18 +507,16 @@
   <div class="wrap">
     <div class="kicker"><span class="num">04</span><div class="line"></div></div>
     <h2 class="section-title"><span class="lang-zh">精選<span class="accent">代表活動</span></span><span class="lang-en">Featured <span class="accent">Highlights</span></span></h2>
-    <p class="section-intro">
-      <span class="lang-zh">點選圖片可放入活動照片或連結，替換下方每張卡片的 <code>&lt;img&gt;</code> 來源即可。</span>
-      <span class="lang-en">Each card is ready for a photo or link — swap the <code>&lt;img&gt;</code> source below to add real event photography.</span>
-    </p>
+
+    <a class="btn btn-solid" href="https://youtube.com/playlist?list=PL5FWbSDcLhgziWgmIqBlZuT_6peymob8x&si=Jg3bNLP2MK4rwhB1" target="_blank" rel="noopener" style="margin-bottom:50px;">
+      <span class="lang-zh">觀看作品總集</span><span class="lang-en">Watch the Showreel Playlist</span> ▶
+    </a>
 
     <div class="works-grid">
 
       <div class="work-card" style="--c1:#A3812E;--c2:#CC8854;">
         <div class="work-photo" style="background:linear-gradient(155deg,var(--c1),var(--c2));">
           <img src="images/activity-01.jpg" alt="Golden Bell Awards" onerror="this.style.display='none'">
-          <div class="ph-fallback lang-zh">照片待放入</div>
-          <div class="ph-fallback lang-en">Add photo</div>
           <span class="work-tag"><span class="lang-zh">獎項</span><span class="lang-en">Award</span></span>
         </div>
         <div class="work-body">
@@ -530,8 +528,6 @@
       <div class="work-card" style="--c1:#CCA654;--c2:#EAC79C;">
         <div class="work-photo" style="background:linear-gradient(155deg,var(--c1),var(--c2));">
           <img src="images/activity-02.jpg" alt="DJ Mish Vancouver" onerror="this.style.display='none'">
-          <div class="ph-fallback lang-zh">照片待放入</div>
-          <div class="ph-fallback lang-en">Add photo</div>
           <span class="work-tag"><span class="lang-zh">活動製作</span><span class="lang-en">Event Production</span></span>
         </div>
         <div class="work-body">
@@ -543,8 +539,6 @@
       <div class="work-card" style="--c1:#55707A;--c2:#CCA654;">
         <div class="work-photo" style="background:linear-gradient(155deg,var(--c1),var(--c2));">
           <img src="images/activity-03.jpg" alt="SET TV on location" onerror="this.style.display='none'">
-          <div class="ph-fallback lang-zh">照片待放入</div>
-          <div class="ph-fallback lang-en">Add photo</div>
           <span class="work-tag"><span class="lang-zh">幕後花絮</span><span class="lang-en">Behind the Scenes</span></span>
         </div>
         <div class="work-body">
@@ -556,8 +550,6 @@
       <div class="work-card" style="--c1:#3B2A1C;--c2:#A3812E;">
         <div class="work-photo" style="background:linear-gradient(155deg,var(--c1),var(--c2));">
           <img src="images/activity-04.jpg" alt="Celebrity home unboxing" onerror="this.style.display='none'">
-          <div class="ph-fallback lang-zh">照片待放入</div>
-          <div class="ph-fallback lang-en">Add photo</div>
           <span class="work-tag"><span class="lang-zh">內容系列</span><span class="lang-en">Content Series</span></span>
         </div>
         <div class="work-body">
@@ -569,8 +561,6 @@
       <div class="work-card" style="--c1:#A3812E;--c2:#CCA654;">
         <div class="work-photo" style="background:linear-gradient(155deg,var(--c1),var(--c2));">
           <img src="images/activity-05.jpg" alt="Taoyuan hospital project" onerror="this.style.display='none'">
-          <div class="ph-fallback lang-zh">照片待放入</div>
-          <div class="ph-fallback lang-en">Add photo</div>
           <span class="work-tag"><span class="lang-zh">公部門專案</span><span class="lang-en">Public Project</span></span>
         </div>
         <div class="work-body">
@@ -582,8 +572,6 @@
       <div class="work-card" style="--c1:#CC8854;--c2:#EAC79C;">
         <div class="work-photo" style="background:linear-gradient(155deg,var(--c1),var(--c2));">
           <img src="images/activity-06.jpg" alt="Figure shop promo" onerror="this.style.display='none'">
-          <div class="ph-fallback lang-zh">照片待放入</div>
-          <div class="ph-fallback lang-en">Add photo</div>
           <span class="work-tag"><span class="lang-zh">零售社群</span><span class="lang-en">Retail & Social</span></span>
         </div>
         <div class="work-body">
@@ -595,8 +583,6 @@
       <div class="work-card" style="--c1:#55707A;--c2:#CC8854;">
         <div class="work-photo" style="background:linear-gradient(155deg,var(--c1),var(--c2));">
           <img src="images/activity-07.jpg" alt="Vancouver real estate" onerror="this.style.display='none'">
-          <div class="ph-fallback lang-zh">照片待放入</div>
-          <div class="ph-fallback lang-en">Add photo</div>
           <span class="work-tag"><span class="lang-zh">個人品牌</span><span class="lang-en">Personal Brand</span></span>
         </div>
         <div class="work-body">
@@ -608,8 +594,6 @@
       <div class="work-card" style="--c1:#CCA654;--c2:#3B2A1C;">
         <div class="work-photo" style="background:linear-gradient(155deg,var(--c1),var(--c2));">
           <img src="images/activity-08.jpg" alt="Art salon workshop" onerror="this.style.display='none'">
-          <div class="ph-fallback lang-zh">照片待放入</div>
-          <div class="ph-fallback lang-en">Add photo</div>
           <span class="work-tag"><span class="lang-zh">工作坊</span><span class="lang-en">Workshop</span></span>
         </div>
         <div class="work-body">
