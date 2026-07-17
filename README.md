@@ -345,7 +345,10 @@
 
     <div class="about-grid">
       <div class="about-portrait">
-        <div class="frame"><span class="lang-zh">照片位置 · 待放入</span><span class="lang-en">Portrait placeholder</span></div>
+        <div class="frame">
+          <img src="images/activity-00.jpg" alt="Donna Liao" style="width:100%;height:100%;object-fit:cover;position:absolute;inset:0;" onerror="this.style.display='none'">
+          <span class="lang-zh" style="position:relative;z-index:-1;">照片位置 · 待放入</span><span class="lang-en" style="position:relative;z-index:-1;">Portrait placeholder</span>
+        </div>
         <div class="caption"><b><span class="lang-zh">廖亭琇 Donna Liao</span></b><br>
           <span class="lang-zh">影音企劃、編導與內容行銷 · 現居溫哥華</span>
           <span class="lang-en">Video Producer & Content Strategist · Based in Vancouver</span>
